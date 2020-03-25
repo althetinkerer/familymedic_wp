@@ -1,0 +1,6 @@
+[03-Dec-2012 18:11:49] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/index.php on line 1
+[04-Dec-2012 18:55:12] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/index.php on line 1
+[22-Jan-2014 15:15:12] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/404.php on line 5
+[23-Jan-2014 06:40:09] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/404.php on line 5
+[23-Jan-2014 13:47:38] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/404.php on line 5
+[23-Jan-2014 21:00:00] PHP Fatal error:  Call to undefined function get_header() in /home/jtoc9890/public_html/wp-content/themes/modernize/404.php on line 5
